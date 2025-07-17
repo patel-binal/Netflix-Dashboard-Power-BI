@@ -38,6 +38,6 @@ Visualizations & Features:
 
 Screenshot:
 
-![Netflix Dashboard Preview](./Screenshot_2025-07-17_212936.png)
+![Netflix Dashboard Preview](https://github.com/patel-binal/Netflix-Dashboard-Power-BI/blob/main/Screenshot%202025-07-17%20212936.png)
 
   
